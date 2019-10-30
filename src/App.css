@@ -1,0 +1,152 @@
+.App-logo {
+  pointer-events: none;
+  width: 250px;
+  height: 90px;
+  margin: 10px 0px 10px 0px;
+}
+
+.App-header {
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+  margin-bottom: 20px;
+  margin: 0px auto;
+}
+
+.kutu {
+  font-size: calc(10px + 2vmin);
+  max-width: 650px;
+  padding-right: 15px;
+  padding-left: 5px;
+  margin: 0px auto;
+  margin-bottom: 0px;
+}
+.tikla {
+  color: #f29f05;
+  text-align: center;
+}
+.card {
+  margin-bottom: 5px;
+  float: left;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.form2 {
+  width: 310px;
+  float: left;
+  margin-left: 15px;
+  font-size: 13px;
+}
+.kayit1 {
+  color: white;
+}
+.kayit2 {
+  color: white;
+}
+.butici {
+  margin: 0px auto;
+  width: 200px;
+}
+.butkay {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  height: 50px;
+  width: 200px;
+  border: none;
+  box-shadow: 1px 1px 0px 2px rgba (0, 0, 0, 0.3);
+  background-color: #f29f05;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.b {
+  list-style-type: square;
+}
+.butlar {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  height: 50px;
+  width: 200px;
+  border: none;
+  margin-top: 15px;
+  box-shadow: 1px 1px 0px 2px rgba (0, 0, 0, 0.3);
+  background-color: #f29f05;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.butkay:hover {
+  background: #3b4b59;
+  transition: 0.5s;
+}
+.butlar:hover {
+  background: #3b4b59;
+  transition: 0.5s;
+}
+.butkay2 {
+  margin: 0px auto;
+  font-weight: bold;
+  font-size: 15px;
+  height: 50px;
+  width: 200px;
+  border: none;
+  box-shadow: 1px 1px 0px 2px rgba (0, 0, 0, 0.3);
+  background-color: #f29f05;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+.butkay2:hover {
+  background: #3b4b59;
+  transition: 0.5s;
+}
+.example2 {
+  background-color: #3b4b59;
+  color: white;
+  padding: 5px;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 20px;
+  max-width: 880px;
+  margin: 0px auto;
+  font-family: Helvetica-Neue;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.footers {
+  width: 50%;
+  margin: 0px auto;
+  text-align: center;
+  font-size: 15px;
+  clear: both;
+}
+.foot {
+  max-width: 800px;
+  border: 1px solid;
+  margin: 0px auto;
+}
+.container {
+  font-size: 10px;
+}
+.iletisim {
+  width: 300px;
+  clear: both;
+  background-color: #f29f05;
+  cursor: pointer;
+  border-radius: 50px;
+  height: 50px;
+  border: none;
+  box-shadow: 1px 1px 0px 2px rgba (0, 0, 0, 0.3);
+  font-weight: bold;
+  color: white;
+}
+.iletisim:hover {
+  background: #333333;
+  transition: 0.5s;
+}
+.email {
+  margin: 0px auto;
+  max-width: 300px;
+  clear: both;
+  padding-bottom: 15px;
+}
